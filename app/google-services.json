@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147862071369",
+    "project_id": "liveloc-d0d89",
+    "storage_bucket": "liveloc-d0d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147862071369:android:bea3f7797120c2b6573798",
+        "android_client_info": {
+          "package_name": "com.ayushab06.liveloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147862071369-d50bbk2hq8om6ebk9h35udfngig3o11u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0eyAEwdS4GtZmqKcuX3gb3g_DGU1Wux0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147862071369-d50bbk2hq8om6ebk9h35udfngig3o11u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
